@@ -1,0 +1,41 @@
+age,income,creditScore,debtincomeratio,fbi,approval
+55,112593,770,45,"['Smartphones', 'T-shirts', 'Pet food']",1
+32,174821,719,20,"['Laptops', 'Home decor', 'Bags']",0
+41,134279,761,58,"['Headphones', 'Coffee makers', 'Jeans']",1
+46,91065,721,33,"['Gaming consoles', 'Air fryers', 'Hardware']",0
+58,202347,788,50,"['Blenders', 'Shoes', 'Toys']",1
+37,138556,704,15,"['Vacuum cleaners', 'Pet food', 'Home decor']",0
+50,187223,782,55,"['T-shirts', 'Gaming consoles', 'Gardening supplies']",0
+33,120439,711,12,"['Jeans', 'Coffee makers', 'Bags']",1
+52,104782,754,26,"['Smartphones', 'Pet food', 'Headphones']",0
+45,209014,734,40,"['Bags', 'Toys', 'Laptops']",1
+59,99387,799,18,"['Home decor', 'Blenders', 'Shoes']",0
+36,144732,765,52,"['Gaming consoles', 'Jeans', 'Vacuum cleaners']",1
+42,203881,740,28,"['Air fryers', 'Headphones', 'Pet food']",1
+54,84649,731,47,"['Gardening supplies', 'Coffee makers', 'T-shirts']",1
+31,182964,708,22,"['Bags', 'Blenders', 'Laptops']",0
+56,196101,717,38,"['Shoes', 'Toys', 'Home decor']",0
+48,89307,795,11,"['Pet food', 'Gaming consoles', 'Jeans']",1
+39,215084,772,36,"['T-shirts', 'Headphones', 'Air fryers']",1
+44,121766,796,54,"['Vacuum cleaners', 'Coffee makers', 'Bags']",0
+57,197555,779,30,"['Toys', 'Gardening supplies', 'Smartphones']",0
+49,88243,704,16,"['Home decor', 'Shoes', 'Blenders']",1
+34,117612,796,42,"['Jeans', 'Pet food', 'Laptops']",1
+60,210976,706,25,"['Headphones', 'Bags', 'T-shirts']",1
+38,129837,797,59,"['Air fryers', 'Toys', 'Gaming consoles']",0
+53,181223,705,35,"['Coffee makers', 'Smartphones', 'Shoes']",1
+40,98027,757,14,"['Gardening supplies', 'Jeans', 'Headphones']",0
+35,205497,737,48,"['Laptops', 'Bags', 'Air fryers']",0
+51,209020,799,19,"['Blenders', 'Pet food', 'Home decor']",0
+43,115082,708,44,"['Gaming consoles', 'T-shirts', 'Toys']",0
+47,189432,720,24,"['Shoes', 'Coffee makers', 'Headphones']",1
+30,208187,750,57,"['Home decor', 'Bags', 'Jeans']",1
+59,82690,799,13,"['Pet food', 'Air fryers', 'Gardening supplies']",0
+52,94156,793,56,"['T-shirts', 'Laptops', 'Blenders']",1
+31,99948,715,21,"['Headphones', 'Gaming consoles', 'Shoes']",1
+57,201356,714,32,"['Jeans', 'Home decor', 'Coffee makers']",1
+58,135645,777,49,"['Toys', 'Bags', 'Pet food']",0
+45,106520,707,27,"['Air fryers', 'T-shirts', 'Laptops']",1
+42,92772,796,17,"['Blenders', 'Gardening supplies', 'Gaming consoles']",0
+34,220000,703,60,"['Shoes', 'Headphones', 'Home decor']",0
+55,150893,724,23,"['Pet food', 'Bags', 'Coffee makers']",1
